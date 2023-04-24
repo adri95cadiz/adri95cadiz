@@ -1,10 +1,9 @@
 <p></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adri95cadiz&theme=dark&locale=es" alt="adri95cadiz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adri95cadiz&theme=dark&locale=es" alt="adri95cadiz" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adri95cadiz&show_icons=true&theme=dark&locale=es" alt="adri95cadiz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adri95cadiz&show_icons=true&theme=dark&locale=es" alt="adri95cadiz" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adri95cadiz&show_icons=true&theme=dark&locale=es&layout=compact" alt="adri95cadiz" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adri95cadiz&show_icons=true&theme=dark&locale=es&layout=compact" alt="adri95cadiz" /></p>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adri95cadiz&theme=alduin&margin-w=10&row=1&column=10" alt="adri95cadiz" /></a> </p>
 
