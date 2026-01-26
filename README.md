@@ -80,7 +80,7 @@
       <td align="center" width="50%">
         <b>Computer Engineering</b><br/>
         <i>University of Granada</i><br/>
-        <small>Specialization in Software Engineering</small>
+        <small>Specialization in Software Engineering and Systems Architecture</small>
       </td>
     </tr>
   </table>
