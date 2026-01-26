@@ -75,12 +75,12 @@
       <td align="center" width="50%">
         <b>Master in Data Science</b><br/>
         <i>UNED (Universidad Nacional de Educación a Distancia)</i><br/>
-        <small>Specializing in Big Data & Analytics</small>
+        <small>Specializing in Machine Learning and Neural Networks</small>
       </td>
       <td align="center" width="50%">
         <b>Computer Engineering</b><br/>
         <i>University of Granada</i><br/>
-        <small>specialization in Graphic Systems</small>
+        <small>specialization in Software Engineering</small>
       </td>
     </tr>
   </table>
