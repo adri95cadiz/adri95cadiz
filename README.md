@@ -1,163 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02aab0,100:00cdac&height=260&section=header&text=Adri%C3%A1n%20Portillo%20S%C3%A1nchez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Architect%20%C2%B7%20Data%20Scientist%20%C2%B7%20Product%20Builder&descAlignY=58&descSize=20" alt="Adrián Portillo Sánchez" width="100%"/>
+<a href="https://github.com/adri95cadiz/portfolio"><img src="assets/signal.svg" alt="An oscilloscope signal crosses the screen and draws the AP logo" width="100%"/></a>
 
-<a href="https://github.com/adri95cadiz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00CDAC&center=true&vCenter=true&width=640&lines=I+design+frontend+architectures+that+scale.;I+ship+SaaS+products+end+to+end.;Logistics+%C2%B7+LegalTech+%C2%B7+Recruiting+%C2%B7+Retail.;Data+science+meets+product+engineering." alt="Typing intro" />
-</a>
+# Adrián Portillo
 
-<br/>
+**I build software that moves.**<br/>
+Front-end architecture · SaaS products · Data & AI · 3D · music
 
-<a href="https://www.linkedin.com/in/adrianportillosanchez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://satinel-system.com"><img src="https://img.shields.io/badge/Satinel_System-02aab0?style=for-the-badge&logo=shield&logoColor=white" alt="Satinel System"/></a>
-<a href="https://go-planner.com"><img src="https://img.shields.io/badge/Go!Planner-00cdac?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Go!Planner"/></a>
-<img src="https://img.shields.io/badge/Based_in-C%C3%A1diz,_Spain-1f2937?style=for-the-badge" alt="Cádiz, Spain"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECTS-9be7c4?style=flat-square&labelColor=0a0f0c" alt="Status: open for projects"/>
+<img src="https://img.shields.io/badge/LOC-C%C3%81DIZ_%C2%B7_ES-9be7c4?style=flat-square&labelColor=0a0f0c" alt="Location: Cádiz, Spain"/>
+
+<a href="https://github.com/adri95cadiz/portfolio"><img src="https://img.shields.io/badge/Portfolio-Se%C3%B1al-ff5b1f?style=for-the-badge&labelColor=0c0d10" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/adrianportillosanchez/"><img src="https://img.shields.io/badge/LinkedIn-ece6da?style=for-the-badge&logo=linkedin&logoColor=0c0d10&labelColor=ece6da" alt="LinkedIn"/></a>
+<a href="https://open.spotify.com/intl-es/artist/19pEcm8vuduzyoxEa3B20y"><img src="https://img.shields.io/badge/Athetosis-ff2e63?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0c0d10" alt="Athetosis on Spotify"/></a>
 
 </div>
 
 <br/>
 
-## 👋 About me
+### `01` Origin
 
-I'm a **software engineer from Cádiz, Spain** who works where complex data meets clean, fast interfaces.
-By day I architect frontends for logistics and enterprise software. On the side I build and launch my own SaaS products, from the first idea to paying users.
+Computer Engineer from the **University of Granada** and **MSc in Data Science** at **UNED**. I learned to code by making things move: drones, robots, games and sound.
+Selected for **Programa Desafía Switzerland** (ICEX / Red.es), focused on Swiss deep tech and entrepreneurship.
 
-- 🏗️ **Front-End Architect** at [**Go!Planner**](https://go-planner.com), a modular TMS + ERP for land and port transport.
-- 🚀 **Lead Developer** at [**Satinel System**](https://satinel-system.com), a systems, development and cybersecurity company (ISO 27001 / ISO 9001).
-- 🧠 **MSc in Data Science** (UNED) and **Computer Engineer** (University of Granada).
-- 🇨🇭 Selected for **Programa Desafía Switzerland** (ICEX / Red.es), focused on Swiss deep tech and entrepreneurship.
-
-<br/>
-
-## 🚢 Products I've built and launched
+### `02` Craft
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://slawly.com">Slawly</a></h3>
-      <sub><b>LegalTech · Marketplace + Practice management</b></sub>
-      <p>A two-sided platform for Spain. Clients post their case anonymously and get proposals from <b>verified lawyers</b>. Firms get a full workspace: matters, procedural deadlines that account for Spanish public holidays, encrypted documents, scheduling, a client portal and payments.</p>
-      <a href="https://slawly.com"><img src="https://img.shields.io/badge/slawly.com-visit-02aab0?style=flat-square" alt="slawly.com"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕷️ <a href="https://workrawler.com">Workrawler</a></h3>
-      <sub><b>Recruiting · AI prospecting</b></sub>
-      <p>Finds companies that are hiring before anyone else does. It crawls job boards, search engines, maps and company websites, removes duplicates, and scores each opportunity with a configurable rubric <b>backed by quotes from the source</b>. Includes a pipeline, a daily top-5 report and bring-your-own AI keys.</p>
-      <a href="https://workrawler.com"><img src="https://img.shields.io/badge/workrawler.com-visit-02aab0?style=flat-square" alt="workrawler.com"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥖 <a href="https://pan-flow.com">pan-flow</a></h3>
-      <sub><b>Vertical SaaS · Bakeries & bread workshops</b></sub>
-      <p>End-to-end operations for wholesale bakeries: recurring orders, production lists by product, delivery routes with driver tracking, custom price agreements, consolidated invoicing and margin analytics.</p>
-      <a href="https://pan-flow.com"><img src="https://img.shields.io/badge/pan--flow.com-visit-02aab0?style=flat-square" alt="pan-flow.com"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎟️ <a href="https://qrasca.com">QRasca</a></h3>
-      <sub><b>Marketing · Gamified promotions</b></sub>
-      <p>Digital scratch cards for businesses. Brands design a campaign, print QR cards, and customers scratch to win on their phone, with no app or sign-up. Prizes are validated by scanning the QR, and multiple campaigns and locations are managed from one dashboard.</p>
-      <a href="https://qrasca.com"><img src="https://img.shields.io/badge/qrasca.com-visit-02aab0?style=flat-square" alt="qrasca.com"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏗️ Senior Front-End Architect · <a href="https://go-planner.com">Go!Planner</a></h4>
-      <ul>
-        <li>Architecture of a modular SaaS TMS + ERP: route planning, real-time fleet tracking, documents and invoicing.</li>
-        <li>Shared design and component foundations across web and the mobile driver app.</li>
-        <li>Focus on performance, modularity and cross-platform consistency.</li>
-      </ul>
+      <sub><code>SENIOR FRONT-END ARCHITECT</code></sub>
+      <h4><a href="https://go-planner.com">Go!Planner</a></h4>
+      Modular SaaS TMS + ERP for road and port logistics: route planning, real-time fleet tracking, documents and invoicing. Shared design foundations across web and the driver app.<br/><br/>
       <code>Angular</code> <code>React</code> <code>Flutter</code> <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 Lead Front-End Developer · <a href="https://satinel-system.com">Satinel System</a></h4>
-      <ul>
-        <li>Leading the migration and modernization of core web applications.</li>
-        <li>Turning data and analytics into clear, usable interfaces.</li>
-        <li>Building in an ISO 27001 / ISO 9001 certified environment.</li>
-      </ul>
+      <sub><code>LEAD FRONT-END DEVELOPER</code></sub>
+      <h4><a href="https://satinel-system.com">Satinel System</a></h4>
+      Leading the modernisation of core web applications and turning data into clear interfaces, in an ISO 27001 / ISO 9001 environment.<br/><br/>
       <code>Angular</code> <code>Next.js</code> <code>TypeScript</code>
     </td>
   </tr>
 </table>
 
-<br/>
+### `03` Lab
 
-## 🛠️ Tech stack
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart&theme=dark" alt="Languages"/>
-
-**Frontend & Mobile**<br/>
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,flutter,tailwind,html,css&theme=dark" alt="Frontend and mobile"/>
-
-**Backend, Data & Infra**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,git,github,linux&theme=dark" alt="Backend and infrastructure"/>
-
-**Creative & 3D**<br/>
-<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Creative"/>
-
-</div>
-
-<br/>
-
-## 🧭 How I work
-
-| | |
-|---|---|
-| 🧱 **Architecture first** | Modular systems that teams can grow without rewrites. |
-| ⚡ **Performance is a feature** | Fast loads and smooth interactions, even with heavy data. |
-| 📊 **Data-informed** | Machine learning and analytics where they add value to the product. |
-| 🔐 **Secure by default** | Encryption, access control and EU data residency built in from the start. |
-| 🚀 **Ship it** | I take products from idea to launch to real users. |
-
-<br/>
-
-## 🎓 Education
+My own products, built and launched end to end.
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>🧠 Master's in Data Science</b><br/>
-      <i>UNED</i><br/>
-      <sub>Machine Learning · Neural Networks</sub>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/LEGALTECH-6ea8ff?style=flat-square&labelColor=0c0d10" alt="LegalTech"/>
+      <h4><a href="https://slawly.com">Slawly</a></h4>
+      <i>Your firm up to date, your clients in the loop.</i><br/>
+      Verified lawyers for clients, and practice software for firms: deadlines that know Spanish holidays, encrypted documents, client portal and payments.
     </td>
-    <td align="center" width="50%">
-      <b>💻 Computer Engineering</b><br/>
-      <i>University of Granada</i><br/>
-      <sub>Software Engineering · Systems Architecture</sub>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/RECRUITING_%C2%B7_AI-9be7c4?style=flat-square&labelColor=0c0d10" alt="Recruiting and AI"/>
+      <h4><a href="https://workrawler.com">Workrawler</a></h4>
+      <i>The employers who need you are already posting.</i><br/>
+      Crawls job boards, search, maps and company sites to find who's hiring, and scores every lead with quotes from the source.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/VERTICAL_SAAS-ffb23e?style=flat-square&labelColor=0c0d10" alt="Vertical SaaS"/>
+      <h4><a href="https://pan-flow.com">pan-flow</a></h4>
+      <i>From order to oven, and oven to delivery.</i><br/>
+      Operations for wholesale bakeries: recurring orders, production lists, delivery routes, price agreements, invoicing and margins.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/LOYALTY_%C2%B7_QR-ff6f91?style=flat-square&labelColor=0c0d10" alt="Loyalty and QR"/>
+      <h4><a href="https://qrasca.com">QRasca</a></h4>
+      <i>Prizes you scratch. Cards you stamp.</i><br/>
+      Digital scratch cards and stamp cards on a QR code for local businesses. No app, no sign-up, anti-fraud built in.
     </td>
   </tr>
 </table>
 
-<br/>
+### `04` Skills
 
-## 🔬 Open source & experiments
+<img src="https://skillicons.dev/icons?i=ts,angular,react,nextjs,flutter,nodejs,python,postgres,docker,threejs,unity,unreal&theme=dark&perline=12" alt="TypeScript, Angular, React, Next.js, Flutter, Node.js, Python, PostgreSQL, Docker, Three.js, Unity, Unreal"/>
 
-Most of my work lives in private, production codebases. I publish experiments and side projects here from time to time.
+Architecture first · performance is a feature · data where it adds value · secure by default · ship it.
 
-<a href="https://github.com/adri95cadiz?tab=repositories"><img src="https://img.shields.io/badge/Browse_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+### `05` Athetosis
 
-<br/><br/>
+When I close the editor, I switch on the machines. **Athetosis** is my electronic music project, somewhere between hip hop and the experimental.
 
-<div align="center">
+<a href="https://open.spotify.com/intl-es/artist/19pEcm8vuduzyoxEa3B20y"><img src="https://img.shields.io/badge/Listen_on_Spotify-ff2e63?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/></a>
 
-### 🤝 Let's build something
+### `06` Arcade
 
-Open to talking about **product, frontend architecture, SaaS and data-driven software**.
+**[`adri95cadiz/portfolio`](https://github.com/adri95cadiz/portfolio)**: my portfolio as a playable thing. A scroll-driven Three.js story, a 16-step drum machine fully synthesized in Web Audio, a rhythm game at 174 BPM, scenery you can shoot to pieces, and 11 achievements to find.
 
-<a href="https://www.linkedin.com/in/adrianportillosanchez/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+### `07` Let's talk
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cdac,100:02aab0&height=120&section=footer" alt="Footer" width="100%"/>
+Got something that needs to move? A custom platform, an MVP, an internal tool or a website people remember.
 
-</div>
+<a href="https://www.linkedin.com/in/adrianportillosanchez/"><img src="https://img.shields.io/badge/Let's_talk-ff5b1f?style=for-the-badge&logo=linkedin&logoColor=0c0d10&labelColor=ff5b1f" alt="Let's talk on LinkedIn"/></a>
