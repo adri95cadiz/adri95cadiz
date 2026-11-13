@@ -8,7 +8,7 @@
 Front-end architecture · SaaS products · Data & AI · 3D · music
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECTS-9be7c4?style=flat-square&labelColor=0a0f0c" alt="Status: open for projects"/>
-<img src="https://img.shields.io/badge/LOC-C%C3%81DIZ_%C2%B7_ES-9be7c4?style=flat-square&labelColor=0a0f0c" alt="Location: Cádiz, Spain"/>
+<img src="https://img.shields.io/badge/LOC-SPAIN-9be7c4?style=flat-square&labelColor=0a0f0c" alt="Location: Spain"/>
 
 <a href="https://adrianportillo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Se%C3%B1al-ff5b1f?style=for-the-badge&labelColor=0c0d10" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/adrianportillosanchez/"><img src="https://img.shields.io/badge/LinkedIn-ece6da?style=for-the-badge&logo=linkedin&logoColor=0c0d10&labelColor=ece6da" alt="LinkedIn"/></a>
