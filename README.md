@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/adri95cadiz/portfolio"><img src="assets/signal.svg" alt="An oscilloscope signal crosses the screen and draws the AP logo" width="100%"/></a>
+<a href="https://adrianportillo.vercel.app"><img src="assets/signal.svg" alt="An oscilloscope signal crosses the screen and draws the AP logo" width="100%"/></a>
 
 # Adrián Portillo
 
@@ -10,7 +10,7 @@ Front-end architecture · SaaS products · Data & AI · 3D · music
 <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECTS-9be7c4?style=flat-square&labelColor=0a0f0c" alt="Status: open for projects"/>
 <img src="https://img.shields.io/badge/LOC-C%C3%81DIZ_%C2%B7_ES-9be7c4?style=flat-square&labelColor=0a0f0c" alt="Location: Cádiz, Spain"/>
 
-<a href="https://github.com/adri95cadiz/portfolio"><img src="https://img.shields.io/badge/Portfolio-Se%C3%B1al-ff5b1f?style=for-the-badge&labelColor=0c0d10" alt="Portfolio"/></a>
+<a href="https://adrianportillo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Se%C3%B1al-ff5b1f?style=for-the-badge&labelColor=0c0d10" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/adrianportillosanchez/"><img src="https://img.shields.io/badge/LinkedIn-ece6da?style=for-the-badge&logo=linkedin&logoColor=0c0d10&labelColor=ece6da" alt="LinkedIn"/></a>
 <a href="https://open.spotify.com/intl-es/artist/19pEcm8vuduzyoxEa3B20y"><img src="https://img.shields.io/badge/Athetosis-ff2e63?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0c0d10" alt="Athetosis on Spotify"/></a>
 
@@ -91,7 +91,7 @@ When I close the editor, I switch on the machines. **Athetosis** is my electroni
 
 ### `06` Arcade
 
-**[`adri95cadiz/portfolio`](https://github.com/adri95cadiz/portfolio)**: my portfolio as a playable thing. A scroll-driven Three.js story, a 16-step drum machine fully synthesized in Web Audio, a rhythm game at 174 BPM, scenery you can shoot to pieces, and 11 achievements to find.
+**[adrianportillo.vercel.app](https://adrianportillo.vercel.app)**: my portfolio as a playable thing ([source](https://github.com/adri95cadiz/portfolio)). A scroll-driven Three.js story, a 16-step drum machine fully synthesized in Web Audio, a rhythm game at 174 BPM, scenery you can shoot to pieces, and 11 achievements to find.
 
 ### `07` Let's talk
 
